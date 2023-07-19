@@ -58,7 +58,7 @@
 
 <br>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=muj-i&theme=gotham&show_icons=true&locale=en&layout=compact" alt="muj-i" /></p>
+<"https://github-readme-stats.vercel.app/api/top-langs?username=muj-i&theme=gotham&show_icons=true&locale=en&layout=compact" alt="muj-i" />
 <br>
 
 <summary>📝 My GitHub Stats</summary>
