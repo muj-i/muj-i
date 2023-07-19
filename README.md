@@ -43,6 +43,21 @@
 - 🎨 [Dribbble][dribbble] profile
 -->
 
+<div align="center">
+<p align="center">🛠 Tools & Technology</p>
+
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+<!--img src="https://img.shields.io/badge/Node-72ac5a?style=for-the-badge&logo=javascript&logoColor=white" /-->
+<!--img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" /-->
+<img src="https://img.shields.io/badge/firebase-ffffff?style=for-the-badge&logo=firebase&logoColor=ffca28" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/Figma-ffffff?style=for-the-badge&logo=Figma&logoColor=black" />
+
+</div>
+
+<br>
+
 <!--
 **muj-i/muj-i** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
