@@ -27,7 +27,7 @@
 
 ### A Student & Developer
 
-<img align="right" alt="GIF" src="code3.gif" width="350" height="200" />
+<img align="right" alt="GIF" src="code3.gif" width="350" height="235" />
 
 #### Talking about my personal stuff:
 
