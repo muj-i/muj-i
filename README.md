@@ -23,6 +23,26 @@
 </a>
 </div>
 
+<br>
+
+### A Student, Developer & Writer
+
+<img align="right" alt="GIF" src="code.gif" width="500" height="320" />
+
+#### Talking about my personal stuff:
+
+- 🔭 I’m currently working on developing my skill on Dart & Flutter
+- 🌱 I’m currently learning Firebase
+- 💻 The tech I'm interested Flutter/Phython/Firebase etc.
+<!--
+- ✍ Technical writer at [Medium][medium]
+- 📱 First Live app on Play Store [Holy Qur'an App][quran]
+- ✨ I'm learning Flutter, Web scrapping, Automations etc.
+- 🎮 COD Modern Warfare 1 Multiplayer
+- 📄 Live [Portfolio][profile]
+- 🎨 [Dribbble][dribbble] profile
+-->
+
 <!--
 **muj-i/muj-i** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
