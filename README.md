@@ -31,7 +31,7 @@
 
 #### Talking about my personal stuff:
 
-- 🔭 I’m currently working on developing my skill on Dart & Flutter
+- 🔭 I’m currently improving my skill on Dart & Flutter
 - 🌱 I’m currently learning Firebase
 - 💻 The tech I'm interested Flutter/Phython/Firebase/Figma etc.
 <!--
