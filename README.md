@@ -58,6 +58,11 @@
 
 <br>
 
+<summary>📝 My GitHub Stats</summary>
+<br>
+
+[![Muj's github stats](https://github-readme-stats.vercel.app/api?username=muj-i&theme=gotham)](https://github.com/muj-i/github-readme-stats)
+
 <!--
 **muj-i/muj-i** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
