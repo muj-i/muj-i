@@ -33,7 +33,7 @@
 
 - 🔭 I’m currently working on developing my skill on Dart & Flutter
 - 🌱 I’m currently learning Firebase
-- 💻 The tech I'm interested Flutter/Phython/Firebase etc.
+- 💻 The tech I'm interested Flutter/Phython/Firebase/Figma etc.
 <!--
 - ✍ Technical writer at [Medium][medium]
 - 📱 First Live app on Play Store [Holy Qur'an App][quran]
