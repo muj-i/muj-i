@@ -25,7 +25,7 @@
 
 <br>
 
-### A Student, Developer & Writer
+### A Student & Developer
 
 <img align="right" alt="GIF" src="code.gif" width="500" height="320" />
 
