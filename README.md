@@ -27,7 +27,7 @@
 
 ### A Student & Developer
 
-<img align="right" alt="GIF" src="code2.webp" width="500" height="320" />
+<img align="right" alt="GIF" src="code1.gif" width="350" height="260" />
 
 #### Talking about my personal stuff:
 
