@@ -44,16 +44,15 @@
 -->
 
 <div align="center">
-<p align="center">🛠 Tools & Technology</p>
+<h3 align="left">Languages and Tools:</h3>
 
-<img src="https://img.shields.io/badge/Flutter-2db6f6?style=for-the-badge&logo=flutter&logoColor=white" />
-<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
-<!--img src="https://img.shields.io/badge/Node-72ac5a?style=for-the-badge&logo=javascript&logoColor=white" /-->
-<!--img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" /-->
-<img src="https://img.shields.io/badge/firebase-ffffff?style=for-the-badge&logo=firebase&logoColor=ffca28" />
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/Figma-ffffff?style=for-the-badge&logo=Figma&logoColor=black" />
-
+<p align="left">
+    <a href="https://flutter.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" alt="Flutter" height="40" /></a>
+    <a href="https://dart.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dartlang-icon.svg" alt="Dart" height="40" /></a> 
+    <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
+    <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
+    <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>   
+</p>
 </div>
 
 <br>
