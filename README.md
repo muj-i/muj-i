@@ -11,7 +11,7 @@
 </a>
 
 <a href="https://medium.com/@muj-i">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
+    <img src="https://img.shields.io/badge/Medium-FFFFFF?style=for-the-badge&logo=medium&logoColor=black" />
 </a>
 
 <a href="https://www.facebook.com/muj.i06">
