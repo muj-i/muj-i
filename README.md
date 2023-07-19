@@ -64,6 +64,10 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=muj-i&show_icons=true&locale=en&layout=compact" alt="muj-i" /></p>
 
+<div style="position: relative;">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=muj-i&show_icons=true&locale=en&layout=compact" alt="muj-i" />
+  <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; background-color: rgba(0, 0, 0, 0.5);"></div>
+</div>
 
 
 [![Muj's github stats](https://github-readme-stats.vercel.app/api?username=muj-i&theme=gotham)](https://github.com/muj-i/github-readme-stats)
