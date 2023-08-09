@@ -32,7 +32,7 @@
 #### Talking about my personal stuff:
 
 - 🔭 I’m currently improving my skill on Dart & Flutter
-- 🌱 I’m currently learning Firebase
+- 🌱 I’m currently learning Firebase & GetX
 - 💻 The tech I'm interested Flutter/Phython/Firebase/Figma etc.
 <!--
 - ✍ Technical writer at [Medium][medium]
