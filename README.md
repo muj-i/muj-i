@@ -33,7 +33,7 @@
 
 - 🔭 I’m currently improving my skill on Dart & Flutter
 - 🌱 I’m currently learning Firebase & GetX
-- 💻 The tech I'm interested Flutter/Phython/Firebase/Figma etc.
+- 💻 The tech I'm interested Flutter/Python/Firebase/Figma etc.
 <!--
 - ✍ Technical writer at [Medium][medium]
 - 📱 First Live app on Play Store [Holy Qur'an App][quran]
