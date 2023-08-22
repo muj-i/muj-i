@@ -44,15 +44,26 @@ As a new Flutter developer, I'm driven by a fervor for problem- solving and a de
 - 🌱 I’m currently learning Hyperledger and Kubernetes  
   
 
-- ❓ Ask me about anything related to MERN stack and related technologies  
+  
+#### Talking about my personal stuff:
+
+- 🔭 I’m currently improving my skill on Dart & Flutter
+- 🌱 I’m currently learning Firebase & GetX
+- ❓ Ask me about anything related to Flutter &  stack and related technologies  
   
 
-- ⚡ Fun fact: I keep night shift swithed on at all times   
-
-
+- ⚡ Fun fact: I keep night shift swithed on at all times
+<!--
+- ✍ Technical writer at [Medium][medium]
+- 📱 First Live app on Play Store [Holy Qur'an App][quran]
+- ✨ I'm learning Flutter, Web scrapping, Automations etc.
+- 🎮 COD Modern Warfare 1 Multiplayer
+- 📄 Live [Portfolio][profile]
+- 🎨 [Dribbble][dribbble] profile
+-->
 </td><td valign="top" width="50%">
 
-
+⚡ Fun fact: I use tabs over spaces
 
 </td></tr></table>  
 
@@ -106,19 +117,7 @@ As a new Flutter developer, I'm driven by a fervor for problem- solving and a de
 
 <img align="right" alt="GIF" src="code2.gif" width="350" height="240" />
 
-#### Talking about my personal stuff:
 
-- 🔭 I’m currently improving my skill on Dart & Flutter
-- 🌱 I’m currently learning Firebase & GetX
-- 💻 The tech I'm interested Flutter/Python/Firebase/Figma etc.
-<!--
-- ✍ Technical writer at [Medium][medium]
-- 📱 First Live app on Play Store [Holy Qur'an App][quran]
-- ✨ I'm learning Flutter, Web scrapping, Automations etc.
-- 🎮 COD Modern Warfare 1 Multiplayer
-- 📄 Live [Portfolio][profile]
-- 🎨 [Dribbble][dribbble] profile
--->
 
 <div align="center">
 <h3 align="left">Languages and Tools:</h3>
