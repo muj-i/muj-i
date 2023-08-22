@@ -23,16 +23,11 @@
 </a>
 </div>
 
-<br>
-
 
 ## Glad to see you here!  
 ### A Student & Developer
 As a new Flutter developer, I'm driven by a fervor for problem- solving and a dedication to crafting exceptional solutions. With a passion for coding and a thirst for innovation, I'm eager to contribute my strong developer skills to create impactful software. Ready to take on new challenges and make a meaningful mark. 
   
-
-<br/>  
-
 
 ## Talking about my personal stuff
 - 🔭 I’m currently improving my skill on Dart & Flutter
@@ -63,7 +58,6 @@ As a new Flutter developer, I'm driven by a fervor for problem- solving and a de
   </p>
 </div>
 
-<br/>  
 
 ## Github Stats  
 <table><tr><td valign="top" width="50%">
@@ -76,7 +70,6 @@ As a new Flutter developer, I'm driven by a fervor for problem- solving and a de
 
 </td></tr></table>  
 
-<br/>  
 
 <!--
 **muj-i/muj-i** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
