@@ -76,13 +76,6 @@ As a new Flutter developer, I'm driven by a fervor for problem- solving and a de
 <br/>  
 
 
-<p></p>
-<br>
-
-<summary>📝 My GitHub Stats</summary>
-<br>
-
-
 
 [![Muj's github stats](https://github-readme-stats.vercel.app/api?username=muj-i&theme=gotham)](https://github.com/muj-i/github-readme-stats)
 
