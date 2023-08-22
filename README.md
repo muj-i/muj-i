@@ -28,7 +28,7 @@
 
 ### A Student & Developer
 
-### Glad to see you here!  
+## Glad to see you here!  
 As a new Flutter developer, I'm driven by a fervor for problem- solving and a dedication to crafting exceptional solutions. With a passion for coding and a thirst for innovation, I'm eager to contribute my strong developer skills to create impactful software. Ready to take on new challenges and make a meaningful mark. 
   
 
@@ -74,11 +74,6 @@ As a new Flutter developer, I'm driven by a fervor for problem- solving and a de
 </div>  
 
 <br/>  
-
-
-
-[![Muj's github stats](https://github-readme-stats.vercel.app/api?username=muj-i&theme=gotham)](https://github.com/muj-i/github-readme-stats)
-
 
 ## Github Stats  
 <table><tr><td valign="top" width="50%">
