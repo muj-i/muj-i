@@ -50,9 +50,6 @@ As a new Flutter developer, I'm driven by a fervor for problem- solving and a de
 -->
 
 
-<br/>  
-
-
 ## Languages and Tools  
 <div align="center">  
 <a href="https://flutter.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" alt="Flutter" height="35" /></a>  
