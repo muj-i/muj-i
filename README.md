@@ -75,7 +75,7 @@ As a new Flutter developer, I'm driven by a fervor for problem- solving and a de
 ## Github Stats  
 <table><tr><td valign="top" width="50%">
     
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=muj-i&theme=gotham&show_icons=true&locale=en&layout=compact" alt="muj-i" />
+
     
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=muj-i&theme=gotham&show_icons=true&count_private=true&hide_border=true" alt="muj-i" />
 
@@ -86,19 +86,6 @@ As a new Flutter developer, I'm driven by a fervor for problem- solving and a de
 </td></tr></table>  
 
 <br/>  
-
-----
-
-
-
-
-<img align="right" alt="GIF" src="code2.gif" width="350" height="240" />
-
-
-
-<br>
-
-
 
 <!--
 **muj-i/muj-i** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
