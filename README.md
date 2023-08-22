@@ -32,7 +32,7 @@ As a new Flutter developer, I'm driven by a fervor for problem- solving and a de
 ## Talking about my personal stuff
 - 🔭 I’m currently improving my skill on Dart & Flutter
 - 🌱 I’m currently learning Firebase & GetX
-- ❓ Ask me about anything related to Flutter &  stack and related technologies
+- ❓ Ask me about anything related to Flutter & Dart and related technologies
 - ⚡ Fun fact: Ever loyal to night shift, I elegantly align with tabs over spaces
 <!--
 - ✍ Technical writer at [Medium][medium]
