@@ -40,7 +40,7 @@ As a new Flutter developer, I'm driven by a fervor for problem- solving and a de
 - 🌱 I’m currently learning Firebase & GetX
 - ❓ Ask me about anything related to Flutter &  stack and related technologies
 - ⚡ Fun fact: Ever loyal to night shift, I elegantly align with tabs over spaces
-- <!--
+<!--
 - ✍ Technical writer at [Medium][medium]
 - 📱 First Live app on Play Store [Holy Qur'an App][quran]
 - ✨ I'm learning Flutter, Web scrapping, Automations etc.
@@ -81,14 +81,13 @@ As a new Flutter developer, I'm driven by a fervor for problem- solving and a de
 
 </td><td valign="top" width="50%">
     
-
-    
+[![Muj's github stats](https://github-readme-stats.vercel.app/api?username=muj-i&theme=gotham)](https://github.com/muj-i/github-readme-stats)    
 <img src="https://github-readme-stats.vercel.app/api?username=muj-i&theme=gotham)(https://github.com/muj-i/github-readme-stats" align="left" style="width: 100%" />
 
 </td></tr></table>  
 
 <br/>  
-[![Muj's github stats](https://github-readme-stats.vercel.app/api?username=muj-i&theme=gotham)](https://github.com/muj-i/github-readme-stats)
+
 ----
 
 
