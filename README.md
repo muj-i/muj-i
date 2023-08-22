@@ -60,11 +60,11 @@ As a new Flutter developer, I'm driven by a fervor for problem- solving and a de
 
 
 ## Github Stats  
-<table><tr><td valign="top" width="30%">
+<table><tr><td valign="top" width="40%">
     
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=muj-i&theme=gotham&show_icons=true&locale=en&layout=compact&hide_border=true" alt="muj-i" />
 
-</td><td valign="top" width="50%">
+</td><td valign="top" width="40%">
     
 <img src="https://github-readme-stats.vercel.app/api?username=muj-i&theme=gotham&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
 
