@@ -51,7 +51,8 @@ As a new Flutter developer, I'm driven by a fervor for problem- solving and a de
 
 
 ## Languages and Tools  
-<div align="center">  
+<div align="center"> 
+<p float="left">
 <a href="https://flutter.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" alt="Flutter" height="35" /></a>  
 
 <a href="https://dart.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dartlang-icon.svg" alt="Dart" height="35" /></a> 
@@ -67,7 +68,7 @@ As a new Flutter developer, I'm driven by a fervor for problem- solving and a de
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="35" /></a>  
 
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="35" /></a>  
-
+</p>
 </div>  
 
 <br/>  
@@ -76,8 +77,6 @@ As a new Flutter developer, I'm driven by a fervor for problem- solving and a de
 <table><tr><td valign="top" width="50%">
     
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=muj-i&theme=gotham&show_icons=true&locale=en&layout=compact&hide_border=true" alt="muj-i" />
-    
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=muj-i&theme=gotham&show_icons=true&count_private=true&hide_border=true" alt="muj-i" />
 
 </td><td valign="top" width="50%">
     
