@@ -60,7 +60,7 @@ As a new Flutter developer, I'm driven by a fervor for problem- solving and a de
 
 
 ## Github Stats  
-<table><tr><td valign="top" width="40%">
+<table><td valign="top" width="40%">
     
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=muj-i&theme=gotham&show_icons=true&locale=en&layout=compact&hide_border=true" alt="muj-i" />
 
@@ -68,27 +68,10 @@ As a new Flutter developer, I'm driven by a fervor for problem- solving and a de
     
 <img src="https://github-readme-stats.vercel.app/api?username=muj-i&theme=gotham&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
 
-</td></tr></table> 
+</td></table> 
 
 ### A Student & Developer
 
 <img align="right" alt="GIF" src="code2.gif" width="350" height="240" />
 
-#### Talking about my personal stuff:
 
-- 🔭 I’m currently improving my skill on Dart & Flutter
-- 🌱 I’m currently learning Firebase & GetX
-- 💻 The tech I'm interested Flutter/Python/Firebase/Figma etc.<!--
-**muj-i/muj-i** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
