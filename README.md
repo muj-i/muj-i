@@ -77,12 +77,11 @@ As a new Flutter developer, I'm driven by a fervor for problem- solving and a de
     
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=muj-i&theme=gotham&show_icons=true&locale=en&layout=compact" alt="muj-i" />
     
-<img src="https://github-readme-stats.vercel.app/api?username=muj-i&theme=gotham&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=muj-i&theme=gotham&show_icons=true&locale=en&layout=compact" alt="muj-i" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=muj-i&theme=gotham&show_icons=true&count_private=true&hide_border=true" alt="muj-i" />
+
 </td><td valign="top" width="50%">
     
-[![Muj's github stats](https://github-readme-stats.vercel.app/api?username=muj-i&theme=gotham)](https://github.com/muj-i/github-readme-stats)    
-<img src="https://github-readme-stats.vercel.app/api?username=muj-i&theme=gotham)(https://github.com/muj-i/github-readme-stats" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=muj-i&theme=gotham&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
 
 </td></tr></table>  
 
