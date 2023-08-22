@@ -1,5 +1,5 @@
 ## Hey there, I'm  Mujahedul Islam <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="25px" width="25px">  
-
+### A Student & Developer
 <div align="center">
 <p align="center">Let's connect!</p>
 <a href="https://twitter.com/its_muj_i/">
@@ -25,7 +25,7 @@
 
 
 ## Glad to see you here!  
-### A Student & Developer
+
 As a new Flutter developer, I'm driven by a fervor for problem- solving and a dedication to crafting exceptional solutions. With a passion for coding and a thirst for innovation, I'm eager to contribute my strong developer skills to create impactful software. Ready to take on new challenges and make a meaningful mark. 
   
 
@@ -68,7 +68,7 @@ As a new Flutter developer, I'm driven by a fervor for problem- solving and a de
     
 <img src="https://github-readme-stats.vercel.app/api?username=muj-i&theme=gotham&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
 
-</td></td>tr></table> 
+</td></tr></table> 
 <img align="center" alt="GIF" src="code1.gif" width="900" height="300" />
 
 
