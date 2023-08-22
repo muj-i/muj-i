@@ -70,8 +70,15 @@ As a new Flutter developer, I'm driven by a fervor for problem- solving and a de
 
 </td></tr></table> 
 
+### A Student & Developer
 
-<!--
+<img align="right" alt="GIF" src="code2.gif" width="350" height="240" />
+
+#### Talking about my personal stuff:
+
+- 🔭 I’m currently improving my skill on Dart & Flutter
+- 🌱 I’m currently learning Firebase & GetX
+- 💻 The tech I'm interested Flutter/Python/Firebase/Figma etc.<!--
 **muj-i/muj-i** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
