@@ -71,7 +71,7 @@ As a new Flutter developer, I'm driven by a fervor for problem- solving and a de
 <img src="https://github-readme-stats.vercel.app/api?username=muj-i&theme=gotham&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
 
 </td></tr></table> 
-<img align="center" alt="GIF" src="code1.gif" width="900" height="300" />
+<!--img align="center" alt="GIF" src="code1.gif" width="900" height="300" /-->
 
 
 
