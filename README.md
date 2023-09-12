@@ -28,7 +28,7 @@
 As a new Flutter developer, I'm driven by a fervor for problem- solving and a dedication to crafting exceptional solutions. With a passion for coding and a thirst for innovation, I'm eager to contribute my strong developer skills to create impactful software. Ready to take on new challenges and make a meaningful mark. 
   
 
-## Talking about my personal stuff
+### Talking about my personal stuff
 - 🔭 I’m currently improving my skill on Dart & Flutter
 - 🌱 I’m currently learning GetX
 - 🧑🏻‍💻 I’m currently working on a book library app named ReadRover & an e-commerce app named CraftyBay
@@ -44,7 +44,7 @@ As a new Flutter developer, I'm driven by a fervor for problem- solving and a de
 -->
 
 
-## Languages and Tools  
+### Languages and Tools  
 <div align="left">
   <p float="left">
     <a href="https://flutter.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" alt="Flutter" height="40" /></a>
@@ -61,7 +61,7 @@ As a new Flutter developer, I'm driven by a fervor for problem- solving and a de
 </div>
 
 
-## Github Stats  
+### Github Stats  
 <table><tr><td valign="top" width="40%">
     
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=muj-i&theme=gotham&show_icons=true&locale=en&layout=compact&hide_border=true" alt="muj-i" />
