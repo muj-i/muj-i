@@ -1,6 +1,6 @@
 ## Hey there, I'm  Mujahedul Islam <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="25px" width="25px">  
 ### A Student & Developer
-<div align="center">
+<!-- <div align="center">
 <p align="center">Let's connect!</p>
 <a href="https://twitter.com/its_muj_i/">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
@@ -21,8 +21,7 @@
 <a href="https://stackoverflow.com/users/22251278/mujahedul-islam">
     <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />
 </a>
-</div>
-
+</div> -->
 
 ## Glad to see you here!  
 
