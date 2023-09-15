@@ -31,7 +31,7 @@ As a new Flutter developer, I'm driven by a fervor for problem- solving and a de
 ### Talking about my personal stuff
 - 🔭 I’m currently improving my skill on Dart & Flutter
 - 🌱 I’m currently learning GetX
-- 🧑🏻‍💻 I’m currently working on a book library app named [ReadRover](https://github.com/muj-i/read_rover) & an e-commerce app named [CraftyBay]([https://github.com/muj-i/read_rover](https://github.com/muj-i/crafty_bay)
+- 🧑🏻‍💻 I’m currently working on a book library app named [ReadRover](https://github.com/muj-i/read_rover) & an e-commerce app named [CraftyBay](https://github.com/muj-i/crafty_bay)
 - ❓ Ask me about anything related to Flutter & Dart and related technologies
 - ⚡ Fun fact: Ever loyal to night shift, I elegantly align with tabs over spaces
 <!--
