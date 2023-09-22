@@ -1,17 +1,15 @@
 ## Hey there, I'm  Mujahedul Islam <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="25px" width="25px">  
 ### A Student & Developer
-<!-- <div align="center">
+< <div align="center">
 <p align="center">Let's connect!</p>
-<a href="https://twitter.com/its_muj_i/">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-</a>
+
 
 <a href="https://www.linkedin.com/in/mujahedul-islam-2b3527277/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<a href="https://www.facebook.com/muj.i06">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+<a href="https://wa.me/message/MZS4ZRNJ4DMSP1">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </a>
 
 <a href="https://medium.com/@muj-i">
@@ -21,9 +19,13 @@
 <a href="https://stackoverflow.com/users/22251278/mujahedul-islam">
     <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />
 </a>
+
+
+
+
 </div> 
 
-## Glad to see you here!  -->
+
 
 As a new Flutter developer, I'm driven by a fervor for problem- solving and a dedication to crafting exceptional solutions. With a passion for coding and a thirst for innovation, I'm eager to contribute my strong developer skills to create impactful software. Ready to take on new challenges and make a meaningful mark. 
   
