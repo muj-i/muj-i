@@ -45,7 +45,7 @@ As a new Flutter developer, I'm driven by a fervor for problem- solving and a de
 
 
 ### Languages and Tools  
-<div align="left">
+<div style="display: flex; flex-wrap: wrap;" align="left">
   <!--p float="left">
     <a href="https://dart.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dartlang-icon.svg" alt="Dart" height="40" /></a>    
     <a href="https://flutter.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" alt="Flutter" height="40" /></a>
@@ -57,7 +57,7 @@ As a new Flutter developer, I'm driven by a fervor for problem- solving and a de
     <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="40" /></a>
     <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="40" /></a>
     -->
-  </p>
+  
 </div>
 
 
