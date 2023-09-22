@@ -10,7 +10,7 @@ As a new Flutter developer, I'm driven by a fervor for problem- solving and a de
 - ✉️ Reach me at **dev.muj.i@icloud.com**
 - 💬 Connect me on **[WhatsApp](https://wa.me/message/MZS4ZRNJ4DMSP1)**
 - ❓ Ask me about anything related to Flutter & Dart and related technologies
-- ⚡ Fun fact: Ever loyal to night shift, I elegantly align with tabs over spaces
+- ⚡ Fun fact: Ever loyal to night shift & elegantly align with tabs over spaces
 <!--
 - ✍ Technical writer at [Medium][medium]
 - 📱 First Live app on Play Store [Holy Qur'an App][quran]
