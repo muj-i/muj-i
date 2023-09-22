@@ -7,8 +7,9 @@ As a new Flutter developer, I'm driven by a fervor for problem- solving and a de
 - 🔭 I’m currently improving my skill on Dart & Flutter
 - 🌱 I’m currently learning GetX
 - 🧑🏻‍💻 I’m currently working on a book library app named [ReadRover](https://github.com/muj-i/read_rover) & an e-commerce app named [CraftyBay](https://github.com/muj-i/crafty_bay)
-- 📫 Reach me at **dev.muj.i@icloud.com**
-- 💬 Ask me about anything related to Flutter & Dart and related technologies
+- ✉️ Reach me at **dev.muj.i@icloud.com**
+- 💬 Connect me on **[WhatsApp](https://wa.me/message/MZS4ZRNJ4DMSP1)**
+- ❓ Ask me about anything related to Flutter & Dart and related technologies
 - ⚡ Fun fact: Ever loyal to night shift, I elegantly align with tabs over spaces
 <!--
 - ✍ Technical writer at [Medium][medium]
@@ -18,7 +19,7 @@ As a new Flutter developer, I'm driven by a fervor for problem- solving and a de
 - 📄 Live [Portfolio][profile]
 - 🎨 [Dribbble][dribbble] profile
 -->
-
+<!--
 ### Connect with me
 <div align="left">
 <a href="https://www.linkedin.com/in/muj-i/" target="blank">
@@ -33,7 +34,7 @@ As a new Flutter developer, I'm driven by a fervor for problem- solving and a de
 
 
 
-<!--
+
 ### Let's connect!
 <div align="left">
 
