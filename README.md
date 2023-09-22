@@ -101,11 +101,10 @@ As a new Flutter developer, I'm driven by a fervor for problem- solving and a de
 </td></tr></table> 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muj-i&theme=gotham" alt="muj-i" /></p>
-
+<!--
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/dev.muj.i"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/dev.muj.i" /></a></p><br><br>
-
-
+/-->
 
 
 <!--
