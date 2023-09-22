@@ -11,7 +11,7 @@ As a new Flutter developer, I'm driven by a fervor for problem- solving and a de
 </a>
 
 <a href="https://wa.me/message/MZS4ZRNJ4DMSP1">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+    <img src="https://img.shields.io/badge/WhatsApp-00C300?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </a>
 
 <a href="https://medium.com/@muj-i">
