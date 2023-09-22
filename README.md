@@ -91,7 +91,7 @@ As a new Flutter developer, I'm driven by a fervor for problem- solving and a de
 
 ### Github Stats  
 <table><tr><td valign="top" width="40%">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muj-i&theme=gotham" alt="muj-i" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muj-i&theme=gotham&layout=compact&hide_border=true" alt="muj-i" />
    
 </td><td valign="top" width="45%">
     
