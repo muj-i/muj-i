@@ -3,22 +3,40 @@
 
 As a new Flutter developer, I'm driven by a fervor for problem- solving and a dedication to crafting exceptional solutions. With a passion for coding and a thirst for innovation, I'm eager to contribute my strong developer skills to create impactful software. Ready to take on new challenges and make a meaningful mark. 
 
-
+### Talking about my personal stuff
+- 🔭 I’m currently improving my skill on Dart & Flutter
+- 🌱 I’m currently learning GetX
+- 🧑🏻‍💻 I’m currently working on a book library app named [ReadRover](https://github.com/muj-i/read_rover) & an e-commerce app named [CraftyBay](https://github.com/muj-i/crafty_bay)
 - 📫 How to reach me **dev.muj.i@icloud.com**
+- 💬 Ask me about anything related to Flutter & Dart and related technologies
+- ⚡ Fun fact: Ever loyal to night shift, I elegantly align with tabs over spaces
+<!--
+- ✍ Technical writer at [Medium][medium]
+- 📱 First Live app on Play Store [Holy Qur'an App][quran]
+- ✨ I'm learning Flutter, Web scrapping, Automations etc.
+- 🎮 COD Modern Warfare 1 Multiplayer
+- 📄 Live [Portfolio][profile]
+- 🎨 [Dribbble][dribbble] profile
+-->
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+    
 <a href="https://twitter.com/muj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="muj" height="30" width="40" /></a>
+    
 <a href="https://linkedin.com/in/muj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muj" height="30" width="40" /></a>
+
 <a href="https://stackoverflow.com/users/muj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="muj" height="30" width="40" /></a>
-<a href="https://medium.com/@muj-i" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@muj-i" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/muj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="muj" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/muju" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="muju" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/muj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="muj" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/muj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="muj" height="30" width="40" /></a>
+
+<a href="https://medium.com/@muj-i" target="blank"><img align="center" src="https://raw.githubusercontent.com/muj-i/muj-i/afdada58f8b3f35c3552da1dd43abe3f65eab99c/medium.svg" alt="@muj-i" height="30" width="40" /></a>
+
+
+
 </p>
 
-
+<!--
 ### Let's connect!
 <div align="left">
 
@@ -34,29 +52,23 @@ As a new Flutter developer, I'm driven by a fervor for problem- solving and a de
     <img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;"/>
 </a>
 
-<!--
+
 <a href="https://stackoverflow.com/users/22251278/mujahedul-islam">
     <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />
 </a>
--->
+
+
+<a href="https://www.hackerrank.com/muj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="muj" height="30" width="40" /></a>
+
+<a href="https://codeforces.com/profile/muju" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="muju" height="30" width="40" /></a>
+
+<a href="https://www.leetcode.com/muj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="muj" height="30" width="40" /></a>
+
+<a href="https://www.hackerearth.com/muj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="muj" height="30" width="40" /></a>
 
 </div>
-  
-
-### Talking about my personal stuff
-- 🔭 I’m currently improving my skill on Dart & Flutter
-- 🌱 I’m currently learning GetX
-- 🧑🏻‍💻 I’m currently working on a book library app named [ReadRover](https://github.com/muj-i/read_rover) & an e-commerce app named [CraftyBay](https://github.com/muj-i/crafty_bay)
-- ❓ Ask me about anything related to Flutter & Dart and related technologies
-- ⚡ Fun fact: Ever loyal to night shift, I elegantly align with tabs over spaces
-<!--
-- ✍ Technical writer at [Medium][medium]
-- 📱 First Live app on Play Store [Holy Qur'an App][quran]
-- ✨ I'm learning Flutter, Web scrapping, Automations etc.
-- 🎮 COD Modern Warfare 1 Multiplayer
-- 📄 Live [Portfolio][profile]
-- 🎨 [Dribbble][dribbble] profile
 -->
+
 
 
 ### Languages and Tools  
