@@ -21,17 +21,12 @@ As a new Flutter developer, I'm driven by a fervor for problem- solving and a de
 
 ### Connect with me
 <div align="left">
-<p float="left">
-    
 <a href="https://linkedin.com/in/muj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muj" height="30" width="40" /></a>
 
 <a href="https://medium.com/@muj-i" target="blank"><img align="center" src="https://raw.githubusercontent.com/muj-i/muj-i/225a77f5690c70e5302e67ba6403655d90f93be1/icons/medium.svg" alt="@muj-i" height="30" width="40" /></a>
 
 <a href="https://wa.me/message/MZS4ZRNJ4DMSP1" target="blank"><img align="center" src="https://raw.githubusercontent.com/muj-i/muj-i/43a5eb1a41c58a52450e3f96d6ebef6da316146f/icons/whatsapp.svg" alt="@muj-i" height="30" width="40" /></a>
 
-<a href="https://twitter.com/muj" target="blank"><img align="center" src="https://raw.githubusercontent.com/muj-i/muj-i/225a77f5690c70e5302e67ba6403655d90f93be1/icons/twitter-x.svg" alt="muj" height="30" width="40" /></a>
-
-</p>
 </div>
 
 
@@ -46,6 +41,8 @@ As a new Flutter developer, I'm driven by a fervor for problem- solving and a de
 <a href="https://wa.me/message/MZS4ZRNJ4DMSP1">
     <img src="https://img.shields.io/badge/WhatsApp-00C300?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </a>
+
+<a href="https://twitter.com/muj" target="blank"><img align="center" src="https://raw.githubusercontent.com/muj-i/muj-i/225a77f5690c70e5302e67ba6403655d90f93be1/icons/twitter-x.svg" alt="muj" height="30" width="40" /></a>
 
 <a href="https://medium.com/@muj-i">
     <img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;"/>
