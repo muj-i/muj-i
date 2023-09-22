@@ -19,22 +19,21 @@ As a new Flutter developer, I'm driven by a fervor for problem- solving and a de
 - 🎨 [Dribbble][dribbble] profile
 -->
 
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-    
-<a href="https://twitter.com/muj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="muj" height="30" width="40" /></a>
+### Connect with me
+<div align="left">
+<p float="left">
     
 <a href="https://linkedin.com/in/muj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muj" height="30" width="40" /></a>
 
-<a href="https://stackoverflow.com/users/muj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="muj" height="30" width="40" /></a>
+<a href="https://medium.com/@muj-i" target="blank"><img align="center" src="https://raw.githubusercontent.com/muj-i/muj-i/225a77f5690c70e5302e67ba6403655d90f93be1/icons/medium.svg" alt="@muj-i" height="30" width="40" /></a>
 
-<a href="https://medium.com/@muj-i" target="blank"><img align="center" src="https://raw.githubusercontent.com/muj-i/muj-i/afdada58f8b3f35c3552da1dd43abe3f65eab99c/medium.svg" alt="@muj-i" height="30" width="40" /></a>
+<a href="https://wa.me/message/MZS4ZRNJ4DMSP1" target="blank"><img align="center" src="https://raw.githubusercontent.com/muj-i/muj-i/43a5eb1a41c58a52450e3f96d6ebef6da316146f/icons/whatsapp.svg" alt="@muj-i" height="30" width="40" /></a>
 
-
+<a href="https://twitter.com/muj" target="blank"><img align="center" src="https://raw.githubusercontent.com/muj-i/muj-i/225a77f5690c70e5302e67ba6403655d90f93be1/icons/twitter-x.svg" alt="muj" height="30" width="40" /></a>
 
 </p>
+</div>
+
 
 <!--
 ### Let's connect!
@@ -57,6 +56,7 @@ As a new Flutter developer, I'm driven by a fervor for problem- solving and a de
     <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />
 </a>
 
+<a href="https://stackoverflow.com/users/muj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="muj" height="30" width="40" /></a>
 
 <a href="https://www.hackerrank.com/muj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="muj" height="30" width="40" /></a>
 
@@ -98,10 +98,13 @@ As a new Flutter developer, I'm driven by a fervor for problem- solving and a de
 <img src="https://github-readme-stats.vercel.app/api?username=muj-i&theme=gotham&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
 
 </td></tr></table> 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/dev.muj.i"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/dev.muj.i" /></a></p><br><br>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muj-i&" alt="muj-i" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muj-i&theme=gotham" alt="muj-i" /></p>
+
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/dev.muj.i"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/dev.muj.i" /></a></p><br><br>
+
+
 
 
 <!--
