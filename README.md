@@ -95,7 +95,20 @@ As a new Flutter developer, I'm driven by a fervor for problem- solving and a de
    
 </td><td valign="top" width="45%">
     
-<img src="https://github-readme-stats.vercel.app/api?username=muj-i&theme=gotham&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+<!--img src="https://github-readme-stats.vercel.app/api?username=muj-i&theme=gotham&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" -->
+
+<img src="https://github-readme-stats.vercel.app/api?username=muj-i&theme={{theme}}&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%">
+
+<script>
+  // Check if the user prefers a dark color scheme
+  const prefersDarkMode = window.matchMedia('(prefers-color-scheme: dark)').matches;
+
+  // Set the theme variable based on the user's preference
+  const theme = prefersDarkMode ? 'gotham' : 'default'; // Change 'default' to your preferred white theme
+
+  // Replace {{theme}} in the image URL with the detected theme
+  document.querySelector('img').src = document.querySelector('img').src.replace('{{theme}}', theme);
+</script>
 
 </td></tr></table> 
 <!--
