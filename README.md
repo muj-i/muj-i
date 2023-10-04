@@ -97,12 +97,12 @@ As a new Flutter developer, I'm driven by a fervor for problem- solving and a de
     
 <!--img src="https://github-readme-stats.vercel.app/api?username=muj-i&theme=gotham&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" -->
 
-<img src="https://github-readme-stats.vercel.app/api?username=muj-i&theme={{theme}}&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%">
-<script>
-  const prefersDarkMode = window.matchMedia('(prefers-color-scheme: dark)').matches;
-  const theme = prefersDarkMode ? 'gotham' : 'default'; 
-  document.querySelector('img').src = document.querySelector('img').src.replace('{{theme}}', theme);
-</script>
+<!-- Display the Gotham theme image if dark mode is preferred -->
+<img src="https://github-readme-stats.vercel.app/api?username=muj-i&theme=gotham&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" alt="GitHub Stats - Gotham Theme">
+
+<!-- Display the white theme image if dark mode is not preferred -->
+<img src="https://github-readme-stats.vercel.app/api?username=muj-i&theme=white&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" alt="GitHub Stats - White Theme">
+
 
 </td></tr></table> 
 <!--
