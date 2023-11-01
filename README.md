@@ -4,9 +4,9 @@
 Passionate Flutter developer dedicated to creating innovative solutions and solving complex problems. Eager to leverage strong coding skills to make a meaningful impact through impactful software development.
 
 ### Talking about my personal stuff
-- 🔭 I’m currently improving my skill on Dart & Flutter
-- 🌱 I’m currently learning GetX
-- 🧑🏻‍💻 I’m currently working on a book library app named [ReadRover](https://github.com/muj-i/read_rover) & an e-commerce app named [CraftyBay](https://github.com/muj-i/crafty_bay)
+- 🔭 I’m currently improving my skills in Flutter & GetX
+- 🌱 I’m currently learning Sockets for Chat System
+- 🧑🏻‍💻 I’m currently working on Code Refining & Design Architecture 
 - ✉️ Reach me at **dev.muj.i@icloud.com**
 - 💬 Connect me on **[WhatsApp](https://wa.me/message/MZS4ZRNJ4DMSP1)**
 - ❓ Ask me about anything related to Flutter & Dart and related technologies
