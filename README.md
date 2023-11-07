@@ -11,7 +11,7 @@ Passionate Flutter developer dedicated to creating innovative solutions and solv
 - ❓ Ask me about anything related to Flutter & Dart and related technologies
 - ⚡ Fun fact: Ever loyal to night shift & elegantly align with tabs over spaces
 <!--
-<!-- - 💬 Connect me on **[WhatsApp](https://wa.me/message/MZS4ZRNJ4DMSP1)** -->
+- 💬 Connect me on **[WhatsApp](https://wa.me/message/MZS4ZRNJ4DMSP1)**
 - ✍ Technical writer at [Medium][medium]
 - 📱 First Live app on Play Store [Holy Qur'an App][quran]
 - ✨ I'm learning Flutter, Web scrapping, Automations etc.
