@@ -1,6 +1,8 @@
 ## Hey there, I'm  Mujahedul Islam <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="25px" width="25px">  
 ### Student & A Developer
 
+<img src="https://komarev.com/ghpvc/?username=muj-i&label=Views&color=a4c639&style=plastic" alt="muj-i" />
+
 Passionate Flutter developer dedicated to creating innovative solutions and solving complex problems. Eager to leverage strong coding skills to make a meaningful impact through impactful software development.
 
 ### Talking about my personal stuff
