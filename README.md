@@ -1,8 +1,5 @@
 ## Hey there, I'm  Mujahedul Islam <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="25px" width="25px">  
 ### Student & A Developer
-
-<img src="https://komarev.com/ghpvc/?username=muj-i&label=Views&color=a4c639&style=plastic" alt="muj-i" />
-
 Passionate Flutter developer dedicated to creating innovative solutions and solving complex problems. Eager to leverage strong coding skills to make a meaningful impact through impactful software development.
 
 ### Talking about my personal stuff
@@ -99,6 +96,9 @@ Passionate Flutter developer dedicated to creating innovative solutions and solv
     
 <img src="https://github-readme-stats.vercel.app/api?username=muj-i&theme=gotham&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
 </td></tr></table> 
+
+<img src="https://komarev.com/ghpvc/?username=muj-i&label=Profile Views&color=8ea7ff&style=plastic" alt="muj-i" />
+
 <!--
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=muj-i&theme=gotham&show_icons=true&locale=en&layout=compact&hide_border=true" alt="muj-i" />
 <h3 align="left">Support:</h3>
