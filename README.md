@@ -97,10 +97,12 @@ Passionate Flutter developer dedicated to creating innovative solutions and solv
 <img src="https://github-readme-stats.vercel.app/api?username=muj-i&theme=gotham&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
 </td></tr></table> 
 
-<img src="https://komarev.com/ghpvc/?username=muj-i&label=ProfileViews&color=8ea7ff&style=plastic" alt="muj-i" />
-<img src="https://github-readme-stats.vercel.app/api?username=muj-i&show_icons=true&theme=radical" alt="muj-i" />
-<!--
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=muj-i&theme=gotham&show_icons=true&locale=en&layout=compact&hide_border=true" alt="muj-i" />
+
+<img src="https://komarev.com/ghpvc/?username=muj-i&label=ProfileViews&color=8ea7ff&style=plastic" alt="muj-i" />
+
+<!--
+
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/dev.muj.i"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/dev.muj.i" /></a></p><br><br>
 /-->
