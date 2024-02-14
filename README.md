@@ -98,7 +98,7 @@ Passionate Flutter developer dedicated to creating innovative solutions and solv
 </td></tr></table> 
 
 <img src="https://komarev.com/ghpvc/?username=muj-i&label=ProfileViews&color=8ea7ff&style=plastic" alt="muj-i" />
-![muj's GitHub stats](https://github-readme-stats.vercel.app/api?username=muj-i&show_icons=true&theme=radical)
+(https://github-readme-stats.vercel.app/api?username=muj-i&show_icons=true&theme=radical)
 <!--
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=muj-i&theme=gotham&show_icons=true&locale=en&layout=compact&hide_border=true" alt="muj-i" />
 <h3 align="left">Support:</h3>
