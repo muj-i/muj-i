@@ -8,7 +8,7 @@ Passionate Flutter developer dedicated to creating innovative solutions and solv
 - 🧑🏻‍💻 I’m currently working on Code Refining & Design Architecture.
 - ✉️ Reach me at **dev.muj.i@icloud.com**.
 - ❓ Ask me about anything related to Flutter & Dart and related technologies.
-- ⚡ Fun fact: Tabs over spaces and night shifts are my elegant and loyal choices for coding.
+- ⚡ Fun fact: Tabs over spaces and loyal to night shifts.
 <!--
 - 💬 Connect me on **[WhatsApp](https://wa.me/message/MZS4ZRNJ4DMSP1)**
 - ✍ Technical writer at [Medium][medium]
