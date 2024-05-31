@@ -3,8 +3,8 @@
 Passionate Flutter developer dedicated to creating innovative solutions and solving complex problems. Eager to leverage strong coding skills to make a meaningful impact through impactful software development.
 
 ### Talking about my personal stuff
-- 🔭 I’m currently improving my skills in Flutter & GetX.
-- 🌱 I’m currently learning Sockets for Chat System.
+- 🔭 I’m currently improving my skills in Flutter.
+- 🌱 I’m currently learning Data Structure & Algorithms.
 - 🧑🏻‍💻 I’m currently working on Code Refining & Design Architecture.
 - ✉️ Reach me at **dev.muj.i@icloud.com**.
 - ❓ Ask me about anything related to Flutter & Dart and related technologies.
