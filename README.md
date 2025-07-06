@@ -15,7 +15,7 @@ Passionate Flutter developer dedicated to creating innovative solutions and solv
 
 ---
 
-### Connect with me
+<!-- ### Connect with me
 
 <div align="left">
 
@@ -55,7 +55,7 @@ Passionate Flutter developer dedicated to creating innovative solutions and solv
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="HackerEarth" height="30" width="30" style="margin: 5px;" />
 </a>
 
-</div>
+</div> -->
 
 ---
 
