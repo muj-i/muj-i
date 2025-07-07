@@ -97,10 +97,10 @@ Passionate Flutter developer dedicated to creating innovative solutions and solv
 
 <div align="left">
   <a href="https://firebase.google.com/" target="_blank">
-    <img src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="30" width="30" style="margin: 5px;" />
+    <img src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="40" width="40" style="margin: 5px;" />
   </a>
   <a href="https://www.mongodb.com/" target="_blank">
-    <img src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="30" width="30" style="margin: 5px;" />
+    <img src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="40" width="40" style="margin: 5px;" />
   </a>
 </div>
 
