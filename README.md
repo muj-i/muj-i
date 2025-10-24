@@ -1,16 +1,16 @@
 ## Hey there, I'm Mujahedul Islam <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="25px" width="25px">
 
-### Student & A Developer
+### Full-Stack Developer & Flutter Enthusiast
 
-Passionate Flutter developer dedicated to creating innovative solutions and solving complex problems. Eager to leverage strong coding skills to make a meaningful impact through impactful software development.
+Passionate full-stack developer with expertise in Flutter and Nest.js as primary stacks. Dedicated to delivering high-quality software with a strong focus on clean architecture and scalable design. Continuously improving skills and exploring new technologies to build impactful and maintainable solutions.
 
 ### Talking about my personal stuff
 
-- 🔭 I’m currently improving my skills in Flutter.
-- 🌱 I’m currently learning Data Structure & Algorithms.
-- 🧑🏻‍💻 I’m currently working on Code Refining & Design Architecture.
+- 🔭 I’m currently enhancing my expertise in Python/Django and Flutter.
+- 🌱 I’m actively learning and refining my skills in software architecture and design patterns.
+- 🧑🏻‍💻 I’m working on improving code quality, system design, and full-stack development practices.
 - ✉️ Reach me at **dev.muj.i@icloud.com**.
-- ❓ Ask me about anything related to Flutter & Dart and related technologies.
+- ❓ Ask me about anything related to Flutter, Nest.js, and full-stack development.
 - ⚡ Fun fact: Tabs over spaces and loyal to night shifts.
 
 ---
@@ -67,6 +67,12 @@ Passionate Flutter developer dedicated to creating innovative solutions and solv
   <a href="https://flutter.dev/" target="_blank">
     <img src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" alt="Flutter" height="40" width="40" style="margin: 5px;" />
   </a>
+  <a href="https://kotlinlang.org/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="Kotlin" height="40" width="40" style="margin: 5px;" />
+  </a>
+  <a href="https://developer.apple.com/swift/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="Swift" height="40" width="40" style="margin: 5px;" />
+  </a>
 </div>
 
 ---
@@ -74,11 +80,11 @@ Passionate Flutter developer dedicated to creating innovative solutions and solv
 ### Server Side
 
 <div align="left">
-    <a href="https://go.dev/" target="_blank">
-    <img src="https://profilinator.rishav.dev/skills-assets/go-original.svg" alt="Go" height="40" width="40" style="margin: 5px;" />
-  </a>
-    <a href="https://www.javascript.com/" target="_blank">
+  <a href="https://www.javascript.com/" target="_blank">
     <img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="40" width="40" style="margin: 5px;" />
+  </a>
+  <a href="https://expressjs.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/muj-i/muj-i/f266a25aea846219442c0f0372348303e1ddc7a3/icons/express.svg" alt="Express.js" height="40" width="40" style="margin: 5px;" />
   </a>
   <a href="https://www.typescriptlang.org/" target="_blank">
     <img src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="40" width="40" style="margin: 5px;" />
@@ -86,8 +92,14 @@ Passionate Flutter developer dedicated to creating innovative solutions and solv
   <a href="https://nestjs.com/" target="_blank">
     <img src="https://profilinator.rishav.dev/skills-assets/nestjs.svg" alt="NestJS" height="40" width="40" style="margin: 5px;" />
   </a>
-  <a href="https://expressjs.com/" target="_blank">
-    <img src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="40" width="40" style="margin: 5px;" />
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="40" width="40" style="margin: 5px;" />
+  </a>
+  <a href="https://www.djangoproject.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/muj-i/muj-i/339a0c662be2bd1b68738025d61a14420b663bc2/icons/django.svg" alt="Django" height="40" width="40" style="margin: 5px;" />
+  </a>
+  <a href="https://go.dev/" target="_blank">
+    <img src="https://profilinator.rishav.dev/skills-assets/go-original.svg" alt="Go" height="40" width="40" style="margin: 5px;" />
   </a>
 </div>
 
@@ -100,7 +112,13 @@ Passionate Flutter developer dedicated to creating innovative solutions and solv
     <img src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="40" width="40" style="margin: 5px;" />
   </a>
   <a href="https://www.mongodb.com/" target="_blank">
-    <img src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="40" width="40" style="margin: 5px;" />
+    <img src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="60" width="40" style="margin: 5px;" />
+  </a>
+  <a href="https://www.mysql.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/muj-i/muj-i/8a7adf0f1ca02c4d258fb44c6ad7249f3d96c12b/icons/mysql.svg" alt="MySQL" height="50" width="60" style="margin: 5px;" />
+  </a>
+  <a href="https://www.postgresql.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/muj-i/muj-i/8a7adf0f1ca02c4d258fb44c6ad7249f3d96c12b/icons/postgresql.svg" alt="PostgreSQL" height="40" width="40" style="margin: 5px;" />
   </a>
 </div>
 
