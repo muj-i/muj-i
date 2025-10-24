@@ -96,7 +96,7 @@ Passionate full-stack developer with expertise in Flutter and Nest.js as primary
     <img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="40" width="40" style="margin: 5px;" />
   </a>
   <a href="https://www.djangoproject.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/muj-i/muj-i/339a0c662be2bd1b68738025d61a14420b663bc2/icons/django.svg" alt="Django" height="40" width="40" />
+    <img src="https://raw.githubusercontent.com/muj-i/muj-i/339a0c662be2bd1b68738025d61a14420b663bc2/icons/django.svg" alt="Django" height="40" width="40" style="margin: 5px;" />
   </a>
   <a href="https://go.dev/" target="_blank">
     <img src="https://profilinator.rishav.dev/skills-assets/go-original.svg" alt="Go" height="40" width="40" style="margin: 5px;" />
