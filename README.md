@@ -81,7 +81,7 @@ Passionate full-stack developer with expertise in Flutter and Nest.js as primary
 </div>
 
 ---
-
+<!--
 ### 📊 Github Stats
 
 <table><tr><td valign="top" width="40%">
@@ -91,5 +91,5 @@ Passionate full-stack developer with expertise in Flutter and Nest.js as primary
 </td></tr></table>
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=muj-i&theme=gotham&show_icons=true&locale=en&layout=compact&hide_border=true&cache_second=1800&include_all_commits=true&count_private=true&hide=html,css,cmake,makefile,c++,ruby,java" alt="muj-i" />
-
+-->
 <img src="https://komarev.com/ghpvc/?username=muj-i&label=ProfileViews&color=8ea7ff&style=plastic" alt="muj-i" />
