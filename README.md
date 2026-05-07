@@ -10,6 +10,7 @@ Passionate full-stack developer with expertise in Flutter and Nest.js as primary
 - 🌱 I’m actively learning and refining my skills in software architecture and design patterns.
 - 🧑🏻‍💻 I’m working on improving code quality, system design, and full-stack development practices.
 - ✉️ Reach me at **dev.muj.i@icloud.com**.
+- 🌏 Visit **[My Portfolio](https://muj-i.github.io/)**.
 - ❓ Ask me about anything related to Flutter, Nest.js, and full-stack development.
 - ⚡ Fun fact: Tabs over spaces and loyal to night shifts.
 
@@ -56,7 +57,7 @@ Passionate full-stack developer with expertise in Flutter and Nest.js as primary
 </a>
 
 </div> -->
-
+<!--
 ---
 
 ### Mobile App Architecture
@@ -76,6 +77,7 @@ Passionate full-stack developer with expertise in Flutter and Nest.js as primary
 <p align="left"><a href="https://firebase.google.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="40" width="40" /></a>&nbsp;<a href="https://www.mongodb.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="60" width="40" /></a>&nbsp;<a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/muj-i/muj-i/8a7adf0f1ca02c4d258fb44c6ad7249f3d96c12b/icons/mysql.svg" alt="MySQL" height="50" width="60" /></a>&nbsp;<a href="https://www.postgresql.org/" target="_blank"><img src="https://raw.githubusercontent.com/muj-i/muj-i/8a7adf0f1ca02c4d258fb44c6ad7249f3d96c12b/icons/postgresql.svg" alt="PostgreSQL" height="40" width="40" /></a></p>
 
 ---
+-->
 <!--
 ### 📊 Github Stats
 
